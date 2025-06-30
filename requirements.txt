@@ -1,0 +1,4 @@
+tonsdk>=1.0.5
+aiohttp>=3.8.0
+prettytable>=3.0.0
+asyncio 
